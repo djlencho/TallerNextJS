@@ -17,7 +17,8 @@ export default {
         green_category: "#BBFAB5",
       },
       fontFamily: {
-        Anaheim: ["Anaheim", "sans-serif"],
+        body: ['Roboto', 'sans-serif'],
+        heading: ['Lora', 'serif'],
       },
     },
   },
